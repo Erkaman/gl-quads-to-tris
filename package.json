@@ -1,0 +1,36 @@
+{
+  "name": "glsl-quads-to-tris",
+  "version": "1.0.0",
+  "description": "Helper module that converts an array of quad indices, to an array of triangles indices",
+  "scripts": {
+    "test": "node test.js"
+
+  },
+  "keywords": [
+    "stackgl",
+    "gl",
+    "webgl",
+    "index",
+    "quad",
+    "tri",
+    "triangle",
+    "indices"
+  ],
+  "author": "Eric Arnebäck <arnebackeric@gmail.com> (https://github.com/Erkaman)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+  },
+  "directories": {
+  },
+  "browserify": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Erkaman/gl-quads-to-tris.git"
+  },
+  "homepage": "https://github.com/Erkaman/gl-quads-to-tris#readme"
+}

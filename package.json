@@ -1,7 +1,7 @@
 {
-  "name": "glsl-quads-to-tris",
+  "name": "gl-quads-to-tris",
   "version": "1.0.0",
-  "description": "Helper module that converts an array of quad indices, to an array of triangles indices",
+  "description": "Helper module that converts an array of quad indices to an array of triangles indices",
   "scripts": {
     "test": "node test.js"
 

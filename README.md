@@ -1,6 +1,6 @@
 # gl-quads-to-tris
 
-This module has a helper function that converts an array quad indices to
+This module has a helper function that converts an array of quad indices to
 an array of triangle indices. So, given the array `[ [0,1,2,3], [4,5,1,0] ]`, which
 specifies the indices of two quads, this module will give an array
 `[ [0,1,2], [0,2,3], [4,5,1], [4,1,0] ]`. And if you render these indices as triangles,
